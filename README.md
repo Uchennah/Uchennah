@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Uchennah
 - 👀 I’m interested in learning software development...
-- 🌱 I’m currently learning Frontend development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Frontend development with Zuri in collaboration with Ingressive for Good. 
+- 💞️ I’m looking to collaborate on on Frontend projects
+- 📫 How to reach me via email- Uchennahenrym@gmail.com
 
 <!---
 Uchennah/Uchennah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
